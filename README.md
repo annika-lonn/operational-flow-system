@@ -7,3 +7,7 @@ Operational flow system for F&amp;B environments – structure, KPI logic and de
 
 ### Flow Structure
 ![Flow](flow.png)
+
+### Value Chain
+
+Input Value → Redistribution → Recovery → Value Retained → Value Lost
